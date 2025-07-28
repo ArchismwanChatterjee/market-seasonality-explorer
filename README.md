@@ -1,13 +1,13 @@
 # Market Seasonality Explorer 📈
 
-An interactive web application for visualizing and analyzing cryptocurrency market seasonality patterns using real-time data from the Binance API. Explore historical volatility, volume, and performance data through an intuitive calendar interface.
+An interactive web application for visualizing and analyzing cryptocurrency market seasonality patterns using real-time data from the Binance API. Explore historical volatility, volume, and performance data through an intuitive calendar interface. Check it out [here](https://market-seasonality-explore.netlify.app/)
 
 ![Market Seasonality Explorer](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![Binance API](https://img.shields.io/badge/Binance_API-Live_Data-F0B90B?style=for-the-badge&logo=binance)
 
-## ✨ Features
+## Features
 
 ###  Interactive Calendar Visualization
 - **Daily View**: Detailed day-by-day market analysis with color-coded volatility indicators
